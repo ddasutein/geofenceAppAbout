@@ -4111,6 +4111,7 @@ input[type="button"].btn-block {
   .navbar-expand-lg > .container-fluid {
     padding-right: 0;
     padding-left: 0;
+    color: white !important;
   }
 }
 
@@ -4136,6 +4137,7 @@ input[type="button"].btn-block {
   .navbar-expand-lg > .container-fluid {
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
+    color: white;
   }
   .navbar-expand-lg .navbar-collapse {
     display: -ms-flexbox !important;
